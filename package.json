@@ -1,0 +1,27 @@
+{
+  "name": "restapiwithtokenauthorisationnodejs",
+  "version": "1.0.0",
+  "description": "Rest API with Token Authentication with file as storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touthtek/RestAPIWithTokenAuthorisationNodejs.git"
+  },
+  "author": "Olu-johnson Oluwatosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touthtek/RestAPIWithTokenAuthorisationNodejs/issues"
+  },
+  "homepage": "https://github.com/touthtek/RestAPIWithTokenAuthorisationNodejs#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
